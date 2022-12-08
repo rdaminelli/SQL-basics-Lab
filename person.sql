@@ -5,7 +5,7 @@ CREATE TABLE person(
     height INTEGER,
     city VARCHAR(40),
     favorite_color VARCHAR(40)    
-)
+);
 
 INSERT INTO person (name, age, height, city, favorite_color)
 VALUES ('Contra Brandy', 18, 1.42, 'South West Carolina', 'dog lipstick red'),
